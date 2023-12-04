@@ -1,0 +1,12 @@
+INFO [2023-12-01 10:25:47] $x
+INFO [2023-12-01 10:25:47] list(stv_ctrl_up_vd, h2o2_ctrl_up_vd, double_ctrl_up_vd)
+INFO [2023-12-01 10:25:47] 
+INFO [2023-12-01 10:25:47] $category.names
+INFO [2023-12-01 10:25:47] c("stv_ctrl", "h2o2_ctrl", "double_ctrl")
+INFO [2023-12-01 10:25:47] 
+INFO [2023-12-01 10:25:47] $filename
+INFO [2023-12-01 10:25:47] [1] "results/venn/Upregulated Genes Venn Diagram.png"
+INFO [2023-12-01 10:25:47] 
+INFO [2023-12-01 10:25:47] $output
+INFO [2023-12-01 10:25:47] [1] TRUE
+INFO [2023-12-01 10:25:47] 
